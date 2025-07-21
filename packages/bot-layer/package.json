@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@medplum/core": "*",
-    "form-data": "4.0.0",
+    "form-data": "4.0.4",
     "jose": "4.15.4",
     "node-fetch": "2.7.0",
     "pdfmake": "0.2.7",
