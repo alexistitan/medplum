@@ -35,7 +35,7 @@
     "dotenv": "16.3.1",
     "fast-glob": "3.3.1",
     "node-fetch": "2.7.0",
-    "tar": "6.2.0"
+    "tar": "7.5.4"
   },
   "devDependencies": {
     "@medplum/fhirtypes": "*",
